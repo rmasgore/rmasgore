@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Roger Masgoret
+N:Masgoret;Roger;;;
+item1.EMAIL;TYPE=INTERNET:rmasgore@iesbalaguer.cat
+item1.X-ABLabel:
+item2.URL:https\://instagram.com/rmasgore
+item2.X-ABLabel:Instagram
+item3.URL:https\://linktr.ee/rmasgore
+item3.X-ABLabel:Home Page
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzE5_ibbdkBkBBUTq3BKXl
+ WIprs6LVCRInZiZ1lZuXyB0MntkOZ4
+CATEGORIES:myContacts
+END:VCARD
